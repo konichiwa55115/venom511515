@@ -1,8 +1,5 @@
-python-telegram-bot==12.3.0
 coloredlogs
 pillow
 watchdog
-
 pydub
-
 requests
