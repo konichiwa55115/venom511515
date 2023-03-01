@@ -1,7 +1,6 @@
 sudo passwd
-echo -ne '\n' | <1>
-echo -ne '\n' | <1>
+yes  
 su
-echo -ne '\n' | 1
+yes
 apt-get install ffmpeg -y
 pip install -r requirements.txt
